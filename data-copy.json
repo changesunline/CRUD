@@ -1,0 +1,15 @@
+{
+	"student":[
+		{"name":"张三","age":"23","gender":"男","hobby":"surfing","id":"12"},
+		{"name":"李四","age":"24","gender":"女","hobby":"LOL","id":"43"},
+		{"name":"王五","age":"25","gender":"男","hobby":"football","id":"123"},
+		{"name":"赵六","age":"26","gender":"女","hobby":"shopping","id":"564"},
+		{"name":"周七","age":"27","gender":"男","hobby":"basketball","id":"89"}
+	],
+	"fruit":[
+		{"title":"apple","describe":"delicious"},
+		{"title":"banana","describe":"delicious"},
+		{"title":"pear","describe":"delicious"},
+		{"title":"pitch","describe":"delicious"}
+	]
+}
